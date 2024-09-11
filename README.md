@@ -1,5 +1,7 @@
 # Digital Clock Project
 
+## Project link ----->>> [Click here](https://venkateshyelisetti21.github.io/DIGITAL-LIVE-CLOCK-USING-HTML-CSS-JS/)
+
 ## Overview
 
 **Digital Clock** implemented using **HTML**, **CSS**, and **JavaScript**. The clock dynamically displays the current time, updating every second, and is styled with modern web technologies for a visually appealing design. The clock automatically adjusts for hours, minutes, and seconds, ensuring accurate real-time updates. The primary goal of this project is to demonstrate a simple yet effective use of JavaScript to manipulate the Document Object Model (DOM) to create a functional digital clock.
