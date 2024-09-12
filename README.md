@@ -31,7 +31,7 @@ The design leverages CSS's flexible box layout (`flexbox`) for centering element
 - **Minimal and Clean Interface:** A simple, elegant UI that emphasizes readability and clarity.
 - **Cross-browser compatibility:** Works across all modern web browsers.
 
-## Technologies Used
+## Technologies_Used
 
 This project uses the following technologies:
 
